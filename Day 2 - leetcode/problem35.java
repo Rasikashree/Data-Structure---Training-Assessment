@@ -14,3 +14,7 @@ public class Solution {
         return left;
     }
 }
+
+// T(C)=O(log n)
+// S(C)=O(1)
+    
